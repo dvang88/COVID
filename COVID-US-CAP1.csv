@@ -1,0 +1,14 @@
+Average Death,
+11.45315186,The average death from 1/20 to 2/21 is 11 per day in the US counties 
+Total Deaths,
+1345585,The total deaths from one year within the counties of US roungly sums to 13 million.
+Total Cases,
+2990660728,
+Correlation ,
+0.750323607,The correlation of 0.7 signifies that there is a positive and signficate relation between the cases and deaths
+Highest Death Count,
+28686,
+Highest Case Count,
+1179633,
+,
+"The increase of cases leads to increase of deaths, therefore patients have a higher chance to not recover from COVID",
